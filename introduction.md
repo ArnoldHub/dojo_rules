@@ -4,3 +4,4 @@ Skills
 * JavaScript
 * Ruby
 * Rebase
+* and the rest
